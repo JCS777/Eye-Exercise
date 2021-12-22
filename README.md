@@ -7,7 +7,6 @@ To run this code, copy all the files into the same directory and the open the in
 <br>
 <b>Roadmap to future improvements:</b><br>
 In future versions, it might be exciting to write code that allows a users to upload any image they like and automatically resizes the image and the eyes.<br> 
-<b>License Information:</b><br>
 <br>
 <b>License information:<b/> MIT License Copyright (c) 2020 John Williams<br>
 <br>
