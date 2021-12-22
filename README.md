@@ -1,11 +1,14 @@
 # Eye-Exercise
 <b>Description:</b><br>
 This repository contains code from an MIT coding exercise that animates eyes on the screen to follow the cursor of the mouse, simulating the old moving eyes inside a painting trope.<br> 
+<br>
 <b>How to Run:</b><br> 
 To run this code, copy all the files into the same directory and the open the index.html file in your browser. Then simply move your mouse about the page and enjoy!<br>
+<br>
 <b>Roadmap to future improvements:</b><br>
 In future versions, it might be exciting to write code that allows a users to upload any image they like and automatically resizes the image and the eyes.<br> 
 <b>License Information:</b><br>
+<br>
 License information: MIT License Copyright (c) 2020 John Williams<br>
 <br>
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br>
